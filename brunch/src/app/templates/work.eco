@@ -1,12 +1,24 @@
-<!-- START you can remove this -->
-<img id="logo" src="http://brunchwithcoffee.com/static/img/logo.png" width="500" height="121">
-<div id="content">
-  <h1>Welcome to Brunch</h1>
+<div id="left-img">
+  <img src="/static/img/fee.png" alt="Fauzan Erich Emmerling"/>
+</div>
+<div id="right-content">
+  <p><strong>Current Projects:</strong></p>
   <ul>
-    <li><a href="http://brunchwithcoffee.com/#documentation">Documentation</a></li>
-    <li><a href="https://github.com/brunch/brunch/issues">Github Issues</a></li>
-    <li><a href="https://github.com/brunch/example-todos">Todos Example App</a></li>
-    <li><a href="https://github.com/brunch/example-twitter">Twitter Example App</a></li>
+    <li>intanware3.0<br />Emfeld Web Technology's Web Management Software</li>
+  </ul>
+  <p><strong>Previous Works:</strong></p>
+  <ul>
+    <li>Mrs. Shingles English Class Facebook Game</li>
+    <li><a href="http://www.derapothekerpresiwert.at">www.deraphothekerpreiswert.at</a></li>
+    <li>EVN Powerteam 2011 - Fanspiel Facebook Application</li>
+    <li><a href="http://www.powertel.co.id">www.powertel.co.id</a></li>
+    <li><a href="http://www.ginsaintipratama.co.id">www.ginsaintipratama.co.id</a></li>
+    <li><a href="http://www.charncollgifts.com">www.charncollgifts.com</a></li>
+    <li><a href="http://www.intanstore.com">www.intanstore.com</a></li>
+    <li><a href="http://www.dimatique.com">www.dimatique.com</a></li>
+    <li>Miss Chinese Pageant Indonesia Contest 2005 & 2007<br />Official Event Website</li>
+    <li><a href="http://www.illustranada.com">www.illustranada.com</a></li>
+    <li>Debating Competition Cyberspace System</li>
+    <li>Mitradata CRM Based Online Shop<br />Final Project for Bachelor Degree</li>
   </ul>
 </div>
-<!-- END you can remove this -->

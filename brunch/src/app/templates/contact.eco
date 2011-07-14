@@ -1,12 +1,13 @@
-<!-- START you can remove this -->
-<img id="logo" src="http://brunchwithcoffee.com/static/img/logo.png" width="500" height="121">
-<div id="content">
-  <h1>Welcome to Brunch</h1>
-  <ul>
-    <li><a href="http://brunchwithcoffee.com/#documentation">Documentation</a></li>
-    <li><a href="https://github.com/brunch/brunch/issues">Github Issues</a></li>
-    <li><a href="https://github.com/brunch/example-todos">Todos Example App</a></li>
-    <li><a href="https://github.com/brunch/example-twitter">Twitter Example App</a></li>
-  </ul>
+<div id="left-img">
+  <img src="/static/img/fee.png" alt="Fauzan Erich Emmerling"/>
 </div>
-<!-- END you can remove this -->
+<div id="right-content">
+  <img id="conimg" src="/static/img/contact.png" alt="contact-page" />
+	<p>You can contact me using the following medias:</p>
+  <p id="listing">
+    <a target="_blank" href="http://www.facebook.com/femmerling"><img src="/static/img/facebook.png" alt="facebook" /></a>
+    <a target="_blank" href="http://twitter.com/femmerling"><img src="/static/img/twitter.png" alt="twitter" /></a>
+    <a target="_blank" href="http://gplus.to/emmerling"><img src="/static/img/gplus.png" alt="google plus" /></a>
+    <a target="_blank" href="mailto:erich@emfeld.com"><img src="/static/img/email.png" alt="emfeld mail" /></a>
+  </p>
+</div>

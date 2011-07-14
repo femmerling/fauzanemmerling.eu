@@ -1,12 +1,14 @@
-<!-- START you can remove this -->
-<img id="logo" src="http://brunchwithcoffee.com/static/img/logo.png" width="500" height="121">
-<div id="content">
-  <h1>Welcome to Brunch</h1>
-  <ul>
-    <li><a href="http://brunchwithcoffee.com/#documentation">Documentation</a></li>
-    <li><a href="https://github.com/brunch/brunch/issues">Github Issues</a></li>
-    <li><a href="https://github.com/brunch/example-todos">Todos Example App</a></li>
-    <li><a href="https://github.com/brunch/example-twitter">Twitter Example App</a></li>
-  </ul>
+<div id="left-img">
+  <img src="/static/img/fee.png" alt="Fauzan Erich Emmerling"/>
 </div>
-<!-- END you can remove this -->
+<div id="right-content">
+  <p>Web and mobile solution developer based in Jakarta, Indonesia, specializing in social media apps development</p>
+	<p><strong>Current interest:</strong><br />Cloud based web and mobile apps</p>
+	<p><strong>Professional experience:</strong><br>
+		 In 2005 established Emfeld Web Technology, a company specializing in developing web solutions. In 2011 the company 
+		 changed its focus into social media, web and mobile apps. <br />
+		 Past professional experience totalling more than 8 years in web application development, IT security and IT auditing,
+		 which also includes working for Focus Media Solution Development and Deloitte Touche Tohmatsu.</p>
+	<p><strong>Other info:</strong><br />
+		 Married, 2 little angels. Leisure time interests are music, books, and aggressive inline skating, but mostly spending time with his family</p>
+</div>
