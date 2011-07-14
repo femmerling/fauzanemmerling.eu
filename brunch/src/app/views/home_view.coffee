@@ -1,7 +1,7 @@
 homeTemplate = require('templates/home')
 
 class exports.HomeView extends Backbone.View
-  id: 'home-view'
+  el: '#mid-content'
 
   render: ->
     $(@.el).html homeTemplate()

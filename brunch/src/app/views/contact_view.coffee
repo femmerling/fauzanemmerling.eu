@@ -1,8 +1,11 @@
-homeTemplate = require('templates/home')
+contactTemplate = require('templates/contact')
 
-class exports.HomeView extends Backbone.View
-  id: 'home-view'
+class exports.ContactView extends Backbone.View
+  el: '#mid-content'
 
   render: ->
-    $(@.el).html homeTemplate()
+    $(@.el).html contactTemplate()
     @
+
+
+

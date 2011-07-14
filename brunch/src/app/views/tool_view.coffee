@@ -1,8 +1,10 @@
-homeTemplate = require('templates/home')
+toolTemplate = require('templates/tool')
 
-class exports.HomeView extends Backbone.View
-  id: 'home-view'
+class exports.ToolView extends Backbone.View
+  el: '#mid-content'
 
   render: ->
-    $(@.el).html homeTemplate()
+    $(@.el).html toolTemplate()
     @
+
+

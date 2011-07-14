@@ -1,8 +1,9 @@
-homeTemplate = require('templates/home')
+workTemplate = require('templates/work')
 
-class exports.HomeView extends Backbone.View
-  id: 'home-view'
+class exports.WorkView extends Backbone.View
+  el: '#mid-content'
 
   render: ->
-    $(@.el).html homeTemplate()
+    $(@.el).html workTemplate()
     @
+
